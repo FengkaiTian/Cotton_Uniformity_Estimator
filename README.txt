@@ -1,8 +1,7 @@
-The documentation only documents work after you have successfully split your ROI. to split the ROI please follow the system coordinates EPSG: 32615 (Missouri), which are not explained here.
-This one is a bit messy because it tries a lot of models and parameters
+The documentation only documents work after you have successfully split your ROI. to split the ROI please follow the system coordinates EPSG: 32615 (Missouri) (of course you can use your own, please be sure that you are using UTM coordination system), which are not explained here. 
 
 
-1. yolocode.py （This one is a bit messy because it tries a lot of models and parameters）
+1. README
 2. make_name_order.py
 3. tif转png.py
 4. run.py （use predict_images.py）
